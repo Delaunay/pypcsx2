@@ -1,0 +1,3 @@
+[submodule "dependencies/pcsx2"]
+	path = dependencies/pcsx2
+	url = git@github.com:PCSX2/pcsx2.git
